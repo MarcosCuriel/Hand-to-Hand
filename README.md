@@ -1,6 +1,6 @@
 # Hand to Hand — Plataforma de intercambio de monedas
 
-> Aplicación web para publicar ofertas de cambio de divisas, chatear y valorar a otros usuarios.
+Aplicación web para publicar ofertas de cambio de divisas mediante chat en tiempo real sin comisiones.
 
 ---
 
